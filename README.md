@@ -1,0 +1,2 @@
+Um aplicativo simples feito em dart para ler os dados do site www.themoviedb.org da série Dragon Ball Clássico.
+Eu estava precisando atualizar os arquivos nfo, pois o Jellyfin não estava conseguindo fazer essa atualização automáticamente.
